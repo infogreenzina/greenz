@@ -12,6 +12,9 @@ export const labels_en = {
   insights: "Insights",
   contactUs: "Contact Us",
 
+  contactUsTouch: "Get In Touch",
+  contactUsTouchDesc: "Greenz Infer and Advisory LLP is a multideciplnary consulting firm providing profacessional advisory and implementation supports in the fied of renewable energy, power sector, Infrastructure and sustainable development",
+
   aboutMe: "About Us",
   whoWeAre: "Who We Are",
   aboutMeDetails: "Greenz Infer and Advisory LLP is a multideciplnary consulting firm providing profacessional advisory and implementation supports in the fied of renewable energy, power sector, Infrastructure and sustainable development",

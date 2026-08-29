@@ -1,0 +1,12 @@
+{
+  "ourServices": [
+    {"label": "services1", "icon": "service1.png", "dataCount": 7},
+    {"label": "services2", "icon": "service2.png", "dataCount": 6},
+    {"label": "services3", "icon": "service3.png", "dataCount": 6},
+    {"label": "services4", "icon": "service4.png", "dataCount": 7},
+    {"label": "services5", "icon": "service5.png", "dataCount": 6},
+    {"label": "services6", "icon": "service6.png", "dataCount": 6},
+    {"label": "services7", "icon": "service7.png", "dataCount": 5},
+    {"label": "services8", "icon": "service8.png", "dataCount": 5}
+  ]
+}

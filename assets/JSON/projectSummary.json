@@ -1,0 +1,8 @@
+{
+  "projectSummary": [
+    {"label": "MW Projects", "label1": "Supported", "counts": "12+", "icon": "projectSummary1.png"},
+    {"label": "Projects", "label1": "Completed", "counts": "12+", "icon": "projectSummary2.png"},
+    {"label": "Years of Completed", "label1": "Experience", "counts": "12+", "icon": "projectSummary3.png"},
+    {"label": "Clients", "label1": "Served", "counts": "12+", "icon": "projectSummary4.png"}
+  ]
+}

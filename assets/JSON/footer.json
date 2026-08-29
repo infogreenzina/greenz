@@ -1,0 +1,31 @@
+{
+  "items": [
+    {"label": "quickLinks", "icon": "","redirect": false, "items": [
+      {"label": "home", "icon": "pi pi-home","redirect": true, "path": "home"},
+      {"label": "aboutUs", "icon": "","redirect": true, "path": "aboutUs"},
+      {"label": "services", "icon": "","redirect": true, "path": "services"},
+      {"label": "experties", "icon": "","redirect": true, "path": "experties"},
+      {"label": "projects", "icon": "","redirect": true, "path": "projects"},
+      {"label": "team", "icon": "","redirect": true, "path": "team"},
+      {"label": "insights", "icon": "","redirect": true, "path": "insights"},
+      {"label": "contactUs", "icon": "","redirect": true, "path": "contactUs"}
+    ]},
+
+    {"label": "ourService", "icon": "","redirect": false, "items": [
+      {"label": "renewableEnergyCounsulting", "icon": "pi pi-home","redirect": false, "path": ""},
+      {"label": "powerSectorAdvisory", "icon": "","redirect": false, "path": ""},
+      {"label": "studiesAndOperation", "icon": "","redirect": false, "path": ""},
+      {"label": "projectManagementSupport", "icon": "","redirect": false, "path": ""},
+      {"label": "technicalFinancialAdvisory", "icon": "","redirect": false, "path": ""},
+      {"label": "infraAdvisory", "icon": "","redirect": false, "path": ""},
+      {"label": "research", "icon": "","redirect": false, "path": ""}
+    ]},
+
+    {"label": "contactUs", "icon": "","redirect": false, "items": [
+      {"label": "address", "icon": "pi pi-map-marker","redirect": false, "path": ""},
+      {"label": "phoneNo", "icon": "pi pi-phone","redirect": false, "path": "", "phone": true},
+      {"label": "email", "icon": "pi pi-envelope","redirect": false, "path": "", "mail": true}
+    ]}
+    
+  ]
+}

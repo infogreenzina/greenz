@@ -1,0 +1,10 @@
+{
+  "insights": [
+    {"name": "insights1", "date": "date", "location": "location", "icon": "insights1.png", "url": ""},
+    {"name": "insights2", "date": "date", "location": "location", "icon": "insights2.png", "url": ""},
+    {"name": "insights3", "date": "date", "location": "location", "icon": "insights3.png", "url": ""},
+    {"name": "insights4", "date": "date", "location": "location", "icon": "insights4.png", "url": ""},
+    {"name": "insights5", "date": "date", "location": "location", "icon": "insights5.png", "url": ""},
+    {"name": "insights6", "date": "date", "location": "location", "icon": "insights6.png", "url": ""}
+  ]
+}

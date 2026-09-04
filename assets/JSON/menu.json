@@ -2,7 +2,7 @@
   "items": [
     {"label": "home", "icon": "pi pi-home","redirect": true, "path": "home"},
     {"label": "aboutUs", "icon": "","redirect": true, "path": "aboutUs"},
-    {"label": "services", "icon": "","redirect": true, "path": "services"},
+    {"label": "services", "icon": "pi pi-lightbulb","redirect": true, "path": "services"},
     {"label": "experties", "icon": "","redirect": true, "path": "experties"},
     {"label": "projects", "icon": "","redirect": true, "path": "projects"},
     {"label": "team", "icon": "","redirect": true, "path": "team"},

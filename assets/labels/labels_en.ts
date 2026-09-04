@@ -41,8 +41,8 @@ export const labels_en = {
   readMore: "Read More",
 
   homeAdvisory: "Powring Sustainable Groth Through expert Advisory",
-  homeAbout: "Greenz Infra and Advisory LLP provides strategic, technical, financial and peoject management advisory services across the power.",
-  homeRenew: "Renuable Energy and Infrastructure sectors.",
+  homeAbout: "Greenz Infra & Advisory LLP is a multidisciplinary consulting and advisory firm providing strategic, technical, financial and project management solutions across the power, renewable energy, infrastructure and sustainability sectors.",
+  homeRenew: "",
   homeOrgPlan: "We help organizations plan, develop and implement",
   homeSustable: "Sustainable and efficient energy and infrastructure solutions",
 
@@ -145,6 +145,12 @@ export const labels_en = {
   experties5_2: "Decarbonisation",
   experties5_3: "Energy Efficiency",
   experties5_4: "Sustainable Development",
+
+  experties6: "Sustainability",
+  experties6_1: "Clean Energy",
+  experties6_2: "Decarbonisation",
+  experties6_3: "Energy Efficiency",
+  experties6_4: "Sustainable Development",
 
   ourTeam: "Our Team",
   ourTeamSubTital: "Our Team Sub Tital will go here",

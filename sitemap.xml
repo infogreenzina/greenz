@@ -3,7 +3,7 @@
 
     <!-- Home -->
     <url>
-        <loc>https://greenzina.com</loc>
+        <loc>https://greenzina.com/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>

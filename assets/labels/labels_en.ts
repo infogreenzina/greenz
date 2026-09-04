@@ -1,7 +1,7 @@
 export const labels_en = {
   name: "Greenz Infra",
   welcome: "Welcomes you",
-  captureDataUrl: "https://script.google.com/macros/s/AKfycbzB6TrT331Gp0YJrRlJmufDAJBoNOD532sNkDU2rHvhZXOePIGRUB6ounHeVMbPD9q-/exec",
+  captureDataUrl: "https://script.google.com/macros/s/AKfycbwgkYcBSuQ3S3nfOjBWcUyDfd4MdjoMP0UVxIQgQKK36kMNVk1sJ_h_SL3fycvBm40M/exec",
 
   home: "Home",
   aboutUs: "About Us",
@@ -31,7 +31,7 @@ export const labels_en = {
   infraAdvisory: "Infrastructure Advisory",
   research: "Research Data & Analytics",
   address: "2nd Floor, Plot No. 123, Sector 2, Ranchi, Jharkhand _ 123456, India",
-  phoneNo: "+91 12345 67890",
+  phoneNo: "+91 12345464747",
   email: "info.greenzina@gmail.com",
   linkedin: "https://in.linkedin.com/",
   infoAbout: "Programming static, technical and implementation advisory services in power, renewable energy and infrastructure sectors.",

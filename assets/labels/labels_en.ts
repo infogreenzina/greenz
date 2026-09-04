@@ -32,7 +32,7 @@ export const labels_en = {
   research: "Research Data & Analytics",
   address: "2nd Floor, Plot No. 123, Sector 2, Ranchi, Jharkhand _ 123456, India",
   phoneNo: "+91 12345 67890",
-  email: "info@greenzinfra.com",
+  email: "info.greenzina@gmail.com",
   linkedin: "https://in.linkedin.com/",
   infoAbout: "Programming static, technical and implementation advisory services in power, renewable energy and infrastructure sectors.",
   copyRights: "Greenz Infra and Advisory LLP, All Rights Reserved.",

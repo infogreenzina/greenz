@@ -1,1 +1,0 @@
-var i=[{label:"experties1",icon:"experties1.png",dataCount:6},{label:"experties2",icon:"experties2.png",dataCount:5},{label:"experties3",icon:"experties3.png",dataCount:4},{label:"experties4",icon:"experties4.png",dataCount:4},{label:"experties5",icon:"experties5.png",dataCount:4},{label:"experties6",icon:"experties6.png",dataCount:4}];export{i as a};

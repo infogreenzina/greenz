@@ -1,10 +1,6 @@
 {
   "ourProjects": [
     {"name": "projects1", "client": "client", "startDate": "date", "services": "service", "brief": "brief", "location": "location", "icon": "projects1.png"},
-    {"name": "projects2", "client": "client", "startDate": "date", "services": "service", "brief": "brief", "location": "location", "icon": "projects2.png"},
-    {"name": "projects3", "client": "client", "startDate": "date", "services": "service", "brief": "brief", "location": "location", "icon": "projects3.png"},
-    {"name": "projects4", "client": "client", "startDate": "date", "services": "service", "brief": "brief", "location": "location", "icon": "projects4.png"},
-    {"name": "projects5", "client": "client", "startDate": "date", "services": "service", "brief": "brief", "location": "location", "icon": "projects5.png"},
-    {"name": "projects6", "client": "client", "startDate": "date", "services": "service", "brief": "brief", "location": "location", "icon": "projects6.png"}
+    {"name": "projects2", "client": "client", "startDate": "date", "services": "service", "brief": "brief", "location": "location", "icon": "projects2.png"}
   ]
 }
